@@ -6,7 +6,7 @@ Maintainer: 李秉綸
 if you have any question, you can mail me mike911209@gmail.com
 
 
-> This repo isn't written by me, I got this from somewhere and fix some bugs, if you are the owner, please contact me, thx
+> The code isn't written by me, I got this from somewhere and fix some bugs, if you are the owner, please contact me, thx
 
 ## Prerequisite
 ```
